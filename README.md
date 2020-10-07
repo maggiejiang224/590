@@ -6,3 +6,5 @@ Assignment 1 - Regularization （Ridge and Lasso）
 Lab 2 - ANN
 
 Lab 3 - Gradient Descent
+
+Lab 4 - Tensor Flow and Keras
