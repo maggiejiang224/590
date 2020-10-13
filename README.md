@@ -8,3 +8,5 @@ Lab 2 - ANN
 Lab 3 - Gradient Descent
 
 Lab 4 - Tensor Flow and Keras
+
+Lab 5 -  Number Recognition - Keras, Tensor Flow
